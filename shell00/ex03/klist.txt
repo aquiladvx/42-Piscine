@@ -1,0 +1,6 @@
+Credentials cache: API:1424262
+        Principal: rdidier-@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Sep 30 19:06:55 2019  Oct  1 05:06:55 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Sep 30 19:06:56 2019  Oct  1 05:06:55 2019  HTTP/student-storage.42sp.org.br@42SP.ORG.BR
